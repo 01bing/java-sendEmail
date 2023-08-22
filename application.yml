@@ -1,0 +1,15 @@
+#获取IP的网址
+ip.url=http://ifconfig.me
+
+#邮箱
+mail.smtp.host=smtp.qq.com
+mail.smtp.port=465
+mail.from.account=xxxxx@qq.com
+mail.from.username=01bing
+mail.from.password=xxxxx
+mail.to.account=xxxxxx@qq.com
+mail.ssl.enable=true
+mail.debug=false
+mail.charset=UTF-8
+mail.subject=ipis
+mail.message=
